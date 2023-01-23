@@ -13,9 +13,11 @@ I'm a Graphic Designer who chose to become a Web Developer, I'm 28 years old and
 
 ### Languages and Tools:
 <div style="display: inline_block"><br>
-<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png">
 <img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-2048x1997.png">
