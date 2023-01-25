@@ -5,7 +5,7 @@
 </p>
 
 I'm a Graphic Designer who chose to become a Web Developer, I'm 28 years old and I'm from Rio de Janeiro - RJ.
-- 📚 **FullStack Web Developer** Student at Labenu
+- 📚 **FullStack Web Developer** Student at bootcamp Labenu and OneBitCode
 - 👩‍💻 I’m currently learning **ReactJS**
 - 💁‍♀️ Pronouns: She/Her
 
