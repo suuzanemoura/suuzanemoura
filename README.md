@@ -10,7 +10,7 @@
 
 Tenho formação técnica em Multimídia pelo NAVE (Núcleo Avançado em Educação) em parceria com a Oi Futuro. Cursei 3 anos de Comunicação Visual Design na UFRJ. Apesar de ter interrompido minha formação acadêmica por motivos pessoais, tenho experiência profissional há mais de cinco anos, atuando como Designer Gráfico em agências de comunicação e como freelancer.
 
-Tive contato com HTML e CSS na minha formação e no mercadi de trabalho, o que me encantou e despertou curiosidade sobre a área de desevolvimento Web. Em 2022 tomei a decisão de transicionar de carreira, buscando me reencontrar no mercado de trabalho.
+Tive contato com HTML e CSS na minha formação e no mercado de trabalho, o que me encantou e despertou curiosidade sobre a área de desevolvimento Web. Em 2022 tomei a decisão de transicionar de carreira, buscando me reencontrar no mercado de trabalho.
 
 - 📚 **FullStack Web Developer** Student at bootcamp Labenu and OneBitCode
 - 👩‍💻 I’m currently learning **ReactJS**
