@@ -6,7 +6,7 @@
 
 [en] I'm a Graphic Designer who chose to become a Web Developer, I'm 28 years old and I'm from Rio de Janeiro - RJ. I'm a Front-end Web Developer in training at Labenu's Full Stack Web Development bootcamp, in which I was able to develop several individual projects. Among my technical skills I can highlight HTML 5, CSS, JavaScript, React JS including React Hooks, Styled-Components and Rest API.
 
-[pt-BR] Olá, sou Suzane, tenho 28 anos, moro no Rio de Janeiro - RJ e sou Desenvolvedora Web Full Stack em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu, no qual pude desenvolver diversos projetos individuais. Entre minhas habilidades técnicas posso destacar HTML 5, CSS, JavaScript, React JS incluindo React Hooks, Styled-Components e API Rest.
+[pt-BR] Olá, sou Suzane, tenho 28 anos, moro no Rio de Janeiro - RJ e sou Desenvolvedora Web Front-End em formação pelo bootcamp de Desenvolvimento Web Full Stack da Labenu, no qual pude desenvolver diversos projetos individuais. Entre minhas habilidades técnicas posso destacar HTML 5, CSS, JavaScript, React JS incluindo React Hooks, Styled-Components e API Rest.
 
 Tenho formação técnica em Multimídia pelo NAVE (Núcleo Avançado em Educação) em parceria com a Oi Futuro. Cursei 3 anos de Comunicação Visual Design na UFRJ. Apesar de ter interrompido minha formação acadêmica por motivos pessoais, tenho experiência profissional há mais de cinco anos, atuando como Designer Gráfico em agências de comunicação e como freelancer.
 
