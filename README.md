@@ -10,9 +10,9 @@
 
 Tenho formação técnica em Multimídia pelo NAVE (Núcleo Avançado em Educação) em parceria com a Oi Futuro. Cursei 3 anos de Comunicação Visual Design na UFRJ. Apesar de ter interrompido minha formação acadêmica por motivos pessoais, tenho  mais de cinco anos de experiência profissional como Designer Gráfico, atuando  em agências de comunicação e como freelancer. Tive contato com HTML e CSS durante minha formação como designer e no mercado de trabalho, o que me despertou o desejo de me especializar como Web Designer. No entanto, por ser uma pessoa curiosa e que gosta de esutdar, decidi em 2022 transicionar de carreira para a área de programação, buscando me reencontrar no mercado de trabalho.
 
-- 📚 **FullStack Web Developer** graduated from Labenu's bootcamp
 - 📚 **FullStack Web Developer** student at OneBitCode
-- 👩‍💻 I’m currently learning **SASS and Bootstrap**
+- 📚 **Santander Bootcamp 2023: FullStack Java+Angular** student at DIO and Santander
+- 👩‍💻 I’m currently learning **Angular e Java**
 - 💁‍♀️ Pronouns: She/Her
 
 ##
@@ -61,5 +61,5 @@ Tenho formação técnica em Multimídia pelo NAVE (Núcleo Avançado em Educaç
 ## 
 
 <a href="https://github.com/suuzanemoura">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=suuzanemoura&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuzanemoura&layout=compact&langs_count=7&theme=cobalt"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=suuzanemoura&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuzanemoura&layout=compact&langs_count=7&theme=jolly"/>
