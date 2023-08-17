@@ -4,7 +4,7 @@
 
 [en] Front-End Developer, who was a Graphic Designer, from Rio de Janeiro - RJ. Graduated from Labenu's Full Stack Web Development bootcamp. I had contact with HTML and CSS more than ten years ago, when I was in high school. It was during graduation in the Visual Design Communication course at UFRJ that I realized that I would like to work in the development area. In 2022, I managed to officially transition to the technology area.
 
-[pt-BR] Desenvolvedora Web Front-End em transição de carreira, atuando previamente como Designer Gráfico, e carioca. Formada pelo bootcamp de Desenvolvimento Web Full Stack da Labenu. Tive contato com HTML e CSS há mais de dez anos, quando estava no ensino médio. Foi durante a graduação no curso de Comunicação Visual Design na UFRJ que percebi que gostaria de atuar na área de desenvolvimento. Em 2022, consegui transicionar oficialmente para aréa de tecnologia.
+[pt-BR] Desenvolvedora Web Front-End em transição de carreira, atuando previamente como Designer Gráfico, e carioca. Formada pelo bootcamp de Desenvolvimento Web Full Stack da Labenu em Maio/2023. Tive contato com HTML e CSS há mais de dez anos, quando estava no ensino médio. Foi durante a graduação no curso de Comunicação Visual Design na UFRJ que percebi que gostaria de atuar na área de desenvolvimento. Em 2022, consegui transicionar oficialmente para aréa de tecnologia.
 
 - 📚 **FullStack Web Developer** student at OneBitCode
 - 📚 **Santander Bootcamp 2023: FullStack Java+Angular** student at DIO
@@ -40,7 +40,8 @@
 [![Behance](https://img.shields.io/badge/-Behance-EBE2F1?style=for-the-badge&logo=behance&logoColor=460C68)](https://www.behance.net/suzanemoura)
 
 ## 
-
-<a href="https://github.com/suuzanemoura">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=suuzanemoura&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuzanemoura&layout=compact&langs_count=7&theme=jolly"/>
+### <img alt="Ponto Roxo" height="15" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/226bbd8e-6124-4065-b275-95df42e9a784"> GitHub Stats
+<div>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=suuzanemoura&show_icons=true&theme=jolly&include_all_commits=true&hide_title=true&count_private=true&hide=stars"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suuzanemoura&layout=compact&hide_title=true&langs_count=7&theme=jolly"/>
+</div>
