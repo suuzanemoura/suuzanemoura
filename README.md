@@ -1,6 +1,6 @@
 ![Dev Suzane Moura](https://github.com/suuzanemoura/suuzanemoura/assets/104701271/ced13b1d-c643-453c-8f59-8782dc4fd2e8)
 
-<img align="right" alt="Developer vector created by me using www.freepik.com" min-width="300px" max-width="450px" height="auto" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/0ba5c618-2493-4981-b8a2-22f0fba76240">
+<img align="right" alt="Developer vector created by me using www.freepik.com" min-width="300px" max-width="420px" height="auto" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/0ba5c618-2493-4981-b8a2-22f0fba76240">
 
 [en] Front-End Developer, who was a Graphic Designer, from Rio de Janeiro - RJ. Graduated from Labenu's Full Stack Web Development bootcamp. I had contact with HTML and CSS more than ten years ago, when I was in high school. It was during graduation in the Visual Design Communication course at UFRJ that I realized that I would like to work in the development area. In 2022, I managed to officially transition to the technology area.
 
