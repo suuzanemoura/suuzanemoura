@@ -8,7 +8,7 @@
 
 - 📚 **FullStack Web Developer** student at OneBitCode
 - 📚 **Santander Bootcamp 2023: FullStack Java+Angular** student at DIO
-- 👩‍💻 I’m currently learning **Angular e Java**
+- 👩‍💻 I’m currently learning **Angular and Java**
 - 💁‍♀️ Pronouns: She/Her
 
 
