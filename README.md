@@ -2,9 +2,9 @@
   
 <img align="right" alt="Notebook inside a big purple puzzle's piece created by me using www.freepik.com" width="420px" height="auto" src="https://github.com/suuzanemoura/suuzanemoura/assets/104701271/0ba5c618-2493-4981-b8a2-22f0fba76240">
 
-[en] Front-End Developer, who was a Graphic Designer, from Rio de Janeiro - RJ. Graduated from Labenu's Full Stack Web Development bootcamp. I had contact with HTML and CSS more than ten years ago, when I was in high school. It was during graduation in the Visual Design Communication course at UFRJ that I realized that I would like to work in the development area. In 2022, I managed to officially transition to the technology area.
+[en] FullStack Developer, who was a Graphic Designer, from Rio de Janeiro - RJ. Graduated from Labenu's Full Stack Web Development bootcamp. I had contact with HTML and CSS more than ten years ago, when I was in high school. It was during graduation in the Visual Design Communication course at UFRJ that I realized that I would like to work in the development area. In 2022, I managed to officially transition to the technology area.
 
-[pt-BR] Desenvolvedora Web Front-End em transição de carreira, atuando previamente como Designer Gráfico, e carioca. Formada pelo bootcamp de Desenvolvimento Web Full Stack da Labenu em Maio/2023. Tive contato com HTML e CSS há mais de dez anos, quando estava no ensino médio. Foi durante a graduação no curso de Comunicação Visual Design na UFRJ que percebi que gostaria de atuar na área de desenvolvimento. Em 2022, consegui transicionar oficialmente para aréa de tecnologia.
+[pt-BR] Desenvolvedora Web FullStack em transição de carreira, atuando previamente como Designer Gráfico, e carioca. Formada pelo bootcamp de Desenvolvimento Web Full Stack da Labenu em Maio/2023. Tive contato com HTML e CSS há mais de dez anos, quando estava no ensino médio. Foi durante a graduação no curso de Comunicação Visual Design na UFRJ que percebi que gostaria de atuar na área de desenvolvimento. Em 2022, consegui transicionar oficialmente para aréa de tecnologia.
 
 - 📚 **FullStack Web Developer** student at OneBitCode
 - 📚 **Santander Bootcamp 2023: FullStack Java+Angular** student at DIO
