@@ -7,8 +7,7 @@
 [pt-BR] Desenvolvedora Web FullStack em transição de carreira, atuando previamente como Designer Gráfico, e carioca. Formada pelo bootcamp de Desenvolvimento Web Full Stack da Labenu em Maio/2023. Tive contato com HTML e CSS há mais de dez anos, quando estava no ensino médio. Foi durante a graduação no curso de Comunicação Visual Design na UFRJ que percebi que gostaria de atuar na área de desenvolvimento. Em 2022, consegui transicionar oficialmente para aréa de tecnologia.
 
 - 📚 **FullStack Web Developer** student at OneBitCode
-- 📚 **Santander Bootcamp 2023: FullStack Java+Angular** student at DIO
-- 👩‍💻 I’m currently learning **Angular and Java**
+- 👩‍💻 I’m currently learning **Next.JS**
 - 💁‍♀️ Pronouns: She/Her
 
 
@@ -22,7 +21,9 @@
 ![React](https://img.shields.io/badge/React-EBE2F1?style=for-the-badge&logo=react&logoColor=460C68)
 ![React Router](https://img.shields.io/badge/React_Router-EBE2F1?style=for-the-badge&logo=react-router&logoColor=460C68)
 ![Styled-Components](https://img.shields.io/badge/styled--components-EBE2F1?style=for-the-badge&logo=styled-components&logoColor=460C68)
+![BootStrap](https://img.shields.io/badge/Bootstrap-EBE2F1?style=for-the-badge&logo=bootstrap&logoColor=460C68)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-EBE2F1?style=for-the-badge&logo=tailwind-css&logoColor=460C68)
+![Angular](https://img.shields.io/badge/Angular-EBE2F1?style=for-the-badge&logo=angular&logoColor=460C68)
 ![NodeJs](https://img.shields.io/badge/Node.js-EBE2F1?style=for-the-badge&logo=node.js&logoColor=460C68)
 ![Express](https://img.shields.io/badge/Express.js-EBE2F1?style=for-the-badge&logo=express&logoColor=460C68)
 ![Typescript](https://img.shields.io/badge/TypeScript-EBE2F1?style=for-the-badge&logo=typescript&logoColor=460C68)
